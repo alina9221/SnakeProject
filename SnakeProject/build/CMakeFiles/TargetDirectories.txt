@@ -1,0 +1,4 @@
+/home/alinochka/Документы/Программирование/SnakeProject/build/CMakeFiles/rebuild_cache.dir
+/home/alinochka/Документы/Программирование/SnakeProject/build/CMakeFiles/edit_cache.dir
+/home/alinochka/Документы/Программирование/SnakeProject/build/CMakeFiles/SnakeGame.dir
+/home/alinochka/Документы/Программирование/SnakeProject/build/CMakeFiles/SnakeGame_autogen.dir
